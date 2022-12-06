@@ -7,3 +7,6 @@ class Dinosaur:
 
     def update(self):
         pass
+
+    def drawn(self):
+        pass
